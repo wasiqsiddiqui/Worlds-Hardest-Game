@@ -6,11 +6,10 @@ import static java.lang.System.*;
 
 public class floor {
 
-public static void main(String[] args)
-{
+public static void main(String[] args){
 JFrame floor = new floorframe();
 floor.setVisible(true);
 floor.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 floor.setSize(1200,1000);
-}
+  }
 }
